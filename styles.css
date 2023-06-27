@@ -1,1 +1,18 @@
-/*  your css code here. If applicable */
+.header{
+    /* justify-content: center; */
+    text-align: center;
+    padding: 15px;
+    background-color: #011e29;
+    color: white;
+    font-size: 25px;
+    /* font-weight: 500px; */
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.h3{
+    text-align: center;
+}
